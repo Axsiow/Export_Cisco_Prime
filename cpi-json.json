@@ -1,0 +1,19 @@
+{
+	"credential": {
+		"serverName": {
+			"username": "user",
+			"password": "passwd"
+		}
+	},
+	"api": {
+		"device": "urlRequest"
+	},
+	"reports": [	{
+			"name": "name",
+			"domain": "domain",
+			"appliance": "appliance",
+			"api": "api",
+			"output": "output"
+		}
+	]
+}
