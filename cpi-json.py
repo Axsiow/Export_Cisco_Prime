@@ -1,7 +1,7 @@
 """Extract data from Cisco Prime Infrastructure API and export to JSON"""
 
 __author__ = "Enzo FOGLIANO"
-__email__ = "enzo.fogliano@st.com"
+__email__ = "enzo@axsiow.tf"
 __version__ = "1.0"
 
 import requests
